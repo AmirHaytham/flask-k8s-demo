@@ -1,6 +1,6 @@
 # Kubernetes Simple Demo Deployment Guide
 
-[![Docker Image](https://img.shields.io/docker/pulls/amirhaytham/flask-k8s-demo?label=Docker%20Pulls&style=flat-square)](https://hub.docker.com/r/amirhaytham/flask-k8s-demo)
+[![Docker Image](https://img.shields.io/docker/pulls/amirhaytham/flask-k8s-demo?label=Docker%20Pulls&style=flat-square&cacheSeconds=60)](https://hub.docker.com/r/amirhaytham/flask-k8s-demo)
 [![Kubernetes Deployment](https://img.shields.io/badge/Kubernetes-Deployment%20Ready-brightgreen?style=flat-square)](https://kubernetes.io/)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
