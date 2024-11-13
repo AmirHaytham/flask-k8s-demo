@@ -4,7 +4,7 @@
 [![Kubernetes Deployment](https://img.shields.io/badge/Kubernetes-Deployment%20Ready-brightgreen?style=flat-square)](https://kubernetes.io/)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/AmirHaytham/flask-k8s-demo/deploy.yml?branch=main&label=Build%20Status&style=flat-square)](https://github.com/AmirHaytham/flask-k8s-demo/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/AmirHaytham/flask-k8s-demo/python-package-conda.yml?branch=main&label=Build%20Status&style=flat-square)](https://github.com/AmirHaytham/flask-k8s-demo/actions)
 [![Contributors](https://img.shields.io/github/contributors/AmirHaytham/flask-k8s-demo?style=flat-square)](#contributing)
 [![Code Size](https://img.shields.io/github/languages/code-size/AmirHaytham/flask-k8s-demo?style=flat-square)](https://github.com/AmirHaytham/flask-k8s-demo)
 [![Open Issues](https://img.shields.io/github/issues/AmirHaytham/flask-k8s-demo?label=Issues&style=flat-square)](https://github.com/AmirHaytham/flask-k8s-demo/issues)
